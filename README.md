@@ -1,6 +1,7 @@
 
 
 working
+
 1.Calculator includes a display which  shows value and operators you enter and the result ​
 
 2.Calculator can perform basic arithmetic operations. You can also  use brackets if necessary ​
